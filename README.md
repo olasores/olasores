@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oyinkansola Olayinka</h1>
 <h3 align="center">I love designing and developing stuff</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=olasores" alt="olasores" /></a> </p>
-
 - 🌱 I’m currently learning **UX/UI & Front end development**
 
 - 📫 How to reach me **Oyinkansola_o@yahoo.com**
