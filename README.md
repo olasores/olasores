@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Oyinkansola Olayinka</h1>
 <h3 align="center">I love designing and developing stuff</h3>
 
-- 🌱 I’m currently learning **UX/UI & Full Stack Web Development**
+🌱 I’m currently learning **UX/UI & Full Stack Web Development**
 
-- 📫 How to reach me **Oyinkansola_o@yahoo.com**
+📫 How to reach me **Oyinkansola_o@yahoo.com**
 
-- ⚡ Fun fact **I think I am funny**
+⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
