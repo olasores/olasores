@@ -18,6 +18,4 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=olasores&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-username=olasores&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
