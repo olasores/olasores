@@ -5,7 +5,8 @@
 
 - 📫 How to reach me **oyinkansola_o@yahoo.com**
 
-- ⚡ Fun fact **I try to be funny**
+- ⚡ Fun fact **I love fries with Ice Cream**
+- Music is Life 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
