@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Oyinkansola Olayinka</h1>
+<h1 align="center">Hi 👋, My name is Oyinkansola Olayinka</h1>
 <h3 align="center">I love designing and developing stuff</h3>
 
 - 🌱 Currently working on my **Front-End Skills & Exploring some Backend technologies**
