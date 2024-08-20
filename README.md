@@ -1,4 +1,6 @@
+
 <h1 align="center">Hi 👋, My name is Oyinkansola Olayinka</h1>
+
 
 
 - 🌱 Currently working on my **Front-End Skills & Exploring some Backend technologies**
@@ -6,6 +8,7 @@
 - 📫 How to reach me **oyinkansola_o@yahoo.com**
 
 - ⚡ Fun fact **I love fries with Ice Cream**
+
 
 
 <h3 align="left">Connect with me:</h3>
