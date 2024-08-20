@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, My name is Oyinkansola Olayinka</h1>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=802843)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="center">I love designing and developing stuff</h3>
 
 - 🌱 Currently working on my **Front-End Skills & Exploring some Backend technologies**
