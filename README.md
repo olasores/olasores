@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **oyinkansola_o@yahoo.com**
 
-- ⚡ Fun fact **I love fries with Ice Cream**
+- ⚡ Fun fact **I love Fries with Ice Cream**
 
 
 
