@@ -2,7 +2,7 @@
 
 <h3 align="left">About Me:</h3>
 
-<p align="left"> Hello! my name is Ola, I'm a junior studying computer science at California state university Fullerton. I enjoy listening to music, and reading during my free time. </p>
+<p align="left"> Hello! my name is Ola, I'm a junior studying computer science at California State University Fullerton. I enjoy listening to music, and reading during my free time. </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_aligimage=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=030f49&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
