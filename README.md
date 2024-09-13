@@ -5,9 +5,16 @@
 <p align="left"> Hello! My name is Ola, I'm a junior studying computer science at California State University Fullerton. I enjoy listening to music, and reading during my free time. </p>
 
 
-----
- 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_aligimage=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=030f49&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+---
+
+<div style="border: 2px solid #121212; padding: 20px; background-color: #181818; border-radius: 10px;">
+
+### Now Playing 🎵
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=030f49&bar_color_cover=false)](https://open.spotify.com/user/26tlot4owp5571azxtoqu7mj8)
+
+
+
+</div>
 
 
 
