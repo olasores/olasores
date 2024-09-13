@@ -1,10 +1,11 @@
 ![LICover](https://github.com/user-attachments/assets/df9e7f88-67a7-4a66-9698-2c26068d601c)
 
+<h3 align="left">About Me:</h3>
 
+<p align="center"> Hello! my name is Ola, I'm a junior studying computer science at California state university Fullerton. I enjoy listening to music, and reading during my free time. </p>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_aligimage=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=030f49&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center"> Hello! my name is Ola, I'm a junior studying computer science at California state university Fullerton. I enjoy listening to music, and reading during my free time. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oyinkansola-olayinka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oyinkansola-olayinka/" height="30" width="40" /></a>
