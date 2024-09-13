@@ -1,5 +1,5 @@
+![LICover](https://github.com/user-attachments/assets/df9e7f88-67a7-4a66-9698-2c26068d601c)
 
-<h1 align="center">Hi 👋, My name is Oyinkansola Olayinka</h1>
 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_aligimage=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=030f49&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
