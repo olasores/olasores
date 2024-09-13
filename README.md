@@ -4,14 +4,7 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=26tlot4owp5571azxtoqu7mj8&cover_aligimage=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=030f49&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-- 🌱 Currently working on my **Front-End Skills & Exploring some Backend technologies**
-
-- 📫 How to reach me **oyinkansola_o@yahoo.com**
-
-- ⚡ Fun fact **I love Fries with Ice Cream**
-
-
-
+<p align="center"> Hello! my name is Ola, I'm a junior studying computer science at California state university Fullerton. I enjoy listening to music, and reading during my free time. </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oyinkansola-olayinka/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oyinkansola-olayinka/" height="30" width="40" /></a>
