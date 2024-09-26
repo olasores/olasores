@@ -1,7 +1,7 @@
 ![LICover](https://github.com/user-attachments/assets/df9e7f88-67a7-4a66-9698-2c26068d601c)
 
 # 💫 About Me:
-Hello! My name is Ola, I'm a junior studying computer science at California State University Fullerton. I enjoy listening to music,skating, kickboxing and reading during my free time.
+Hello! My name is Ola, I'm a junior studying computer science at California State University Fullerton. I enjoy listening to music, skating, kickboxing and reading during my free time.
 
 
 
