@@ -1,7 +1,18 @@
 ![LICover](https://github.com/user-attachments/assets/df9e7f88-67a7-4a66-9698-2c26068d601c)
 
-# 💫 About Me:
-Hey there! I'm Ola, I like building things on the web and appreciate good design. Always experimenting, learning, and creating! 🚀
+# 💫 About Me  
+Hey there! I'm **Ola**, a web enthusiast who loves building things on the web and appreciates good design. Always experimenting, learning, and creating! 🚀  
+
+<details>
+    <summary><strong> More Info </strong></summary>
+  
+| **Category**   | **Details**                                 |
+|----------------|---------------------------------------------|
+| **🌱 Interests** | Web Development, UI/UX Design, Data Science |
+| **🎧 Hobbies**   | Listening to music, Skating, Reading       |
+| **🔍 Exploring**  | New technologies, Performance optimization, Responsive layouts |
+
+</details>
 
 <div style="border: 2px solid #121212; padding: 20px; background-color: #181818; border-radius: 10px;">
 
