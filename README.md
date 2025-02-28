@@ -25,17 +25,8 @@ Hey there! I'm **Ola**, a web enthusiast who loves building things on the web.
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 
 
-<br/>
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=olasores&theme=dark&hide_border=false)<br/>
 
----
-[![](https://visitcount.itsvg.in/api?id=olasores&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 # 🌐 Connect:
