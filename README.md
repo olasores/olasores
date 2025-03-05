@@ -1,7 +1,7 @@
 ![LICover](https://github.com/user-attachments/assets/df9e7f88-67a7-4a66-9698-2c26068d601c)
 
 # 💫 About Me  
-Hey there! I'm **Ola**, a web enthusiast who loves building things on the web. 
+Hey there! I'm **Ola**, a web enthusiast who loves building things on the web. womp
 
 <details>
     <summary><strong> More Info </strong></summary>
