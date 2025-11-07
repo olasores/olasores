@@ -10,7 +10,7 @@ Hey there! I'm **Ola**, a web enthusiast who loves building things on the web.
 |----------------|---------------------------------------------|
 | **🌱 Interests** | Web Development, UI/UX Design, Data Science |
 | **🎧 Hobbies**   | Listening to music, Skating, Reading Novels       |
-| **🔍 Exploring**  | New technologies, Performance optimization, Responsive layouts |
+| **🔍 Exploring**  | New technologies |
 
 </details>
 
