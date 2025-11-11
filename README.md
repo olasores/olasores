@@ -1,4 +1,5 @@
-![LICover](https://github.com/user-attachments/assets/df9e7f88-67a7-4a66-9698-2c26068d601c)
+<img width="1584" height="396" alt="newcover" src="https://github.com/user-attachments/assets/de0c6b61-77e9-48e1-aa18-828c6cc2c2a2" />
+
 
 # 💫 About Me  
 Hey there! I'm **Ola**, a web enthusiast who loves building things on the web.
