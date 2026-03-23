@@ -22,7 +22,7 @@ Hey there! I'm **Ola**, a web enthusiast who loves building things on the web.
 </div>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=olasores&theme=dark&hide_border=false)<br/>
+![olasores's Streak](https://github-readme-streak-stats.herokuapp.com/?user=olasores&theme=highcontrast&hide_border=true)
 
 
 # 💻 Tech Stack:
